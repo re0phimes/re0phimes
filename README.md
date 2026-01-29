@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 全栈工程师
+- 大模型开发
+
+### 公众号
+
+![a3ce773a6df05ed6412e20d19e2f7e21](https://github.com/user-attachments/assets/9c1fe0bf-1495-44e2-b1cf-a4f0eed3dfeb)
+
+
 <!--
 **re0phimes/re0phimes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

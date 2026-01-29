@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![phimes's GitHub stats](https://github-readme-stats.vercel.app/api?username=re0phimes&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re0phimes&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
